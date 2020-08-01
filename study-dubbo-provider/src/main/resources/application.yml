@@ -1,0 +1,14 @@
+server:
+  port: 8001
+  servlet:
+    application-display-name: demo-provider
+dubbo:
+  application:
+    name: demo-provider
+  registry:
+    address: zookeeper://127.0.0.1:2181
+    protocol: zookeeper
+    check: false
+  protocol:
+    name: dubbo
+    port: 20800

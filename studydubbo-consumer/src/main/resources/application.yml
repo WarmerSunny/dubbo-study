@@ -1,0 +1,12 @@
+server:
+  port: 8002
+dubbo:
+  application:
+    name: demo-consumer
+  registry:
+    address: zookeeper://127.0.0.1:2181
+    protocol: zookeeper
+    check: false
+  protocol:
+    name: dubbo
+    port: 20810
