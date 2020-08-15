@@ -9,4 +9,8 @@ public class DemoServiceImpl implements DemoService {
     public void printDemo() {
         System.out.println("调用dubbo-provide打印");
     }
+
+
+
+
 }
