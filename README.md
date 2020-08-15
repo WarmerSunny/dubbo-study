@@ -23,7 +23,7 @@
 
 - [x] 1 springboot 和dubbo整合
 - [x] 2 基于zookeeper注册中心完成注解方式的dubbo服务的发布和引用
-- [ ] 3 dubbo服务降级实现和测试
+- [X] 3 dubbo服务降级实现和测试
 - [ ] 4 dubbo-admin进行服务治理
 - [ ] 5 dubbo整合hystrix进行服务降级和服务熔断控制
 - [ ] 6 通过sleuth完成流量控制
