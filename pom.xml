@@ -17,7 +17,7 @@
         <springboot.version>2.3.0.RELEASE</springboot.version>
         <dubbo.version>2.7.7</dubbo.version>
         <zookeeper.version>3.5.7</zookeeper.version>
-        <JUnit.version>4.5</JUnit.version>
+        <JUnit.version>4.13.1</JUnit.version>
     </properties>
 
     <repositories>
